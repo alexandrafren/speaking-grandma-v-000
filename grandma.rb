@@ -9,8 +9,10 @@ def speak_to_grandma(input)
   else
     puts "HUH?! SPEAL UP, SONNY!"
 end
+end
 
-# If you shout, she can hear you (or at least she thinks so) 
+
+# If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
 # NO, NOT SINCE 1938!
