@@ -2,6 +2,7 @@
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
+input = "Hi, grandma!"
 def speak_to_grandma(input)
   if input == input.upcase
     if input == "I LOVE YOU GRANDMA!"
