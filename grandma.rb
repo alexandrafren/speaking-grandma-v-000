@@ -2,16 +2,16 @@
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-imput = "Hi"
+imput = 'HI!'
 def speak_to_grandma
   if input == input.upcase
-    if input == "I LOVE YOU GRANDMA!"
-      puts "I LOVE YOU TOO PUMPKIN"
+    if input == 'I LOVE YOU GRANDMA!'
+      puts 'I LOVE YOU TOO PUMPKIN'
     else
-    puts "NO, NOT SINCE 1938!"
+    puts 'NO, NOT SINCE 1938!'
   end
   else
-    puts "HUH?! SPEAK UP, SONNY!"
+    puts 'HUH?! SPEAK UP, SONNY!'
 end
 end
 
