@@ -3,7 +3,7 @@
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 imput = 'HI!'
-def speak_to_grandma
+def speak_to_grandma(input)
   if input == input.upcase
     if input == 'I LOVE YOU GRANDMA!'
       puts 'I LOVE YOU TOO PUMPKIN'
