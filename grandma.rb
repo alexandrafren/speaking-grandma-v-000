@@ -2,8 +2,8 @@
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-input = "Hi, grandma!"
-def speak_to_grandma(input)
+imput = "Hi"
+def speak_to_grandma
   if input == input.upcase
     if input == "I LOVE YOU GRANDMA!"
       puts "I LOVE YOU TOO PUMPKIN"
